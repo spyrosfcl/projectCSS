@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    background-color: antiquewhite;
+    gap:100px;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.flex-item{
+    background-color: rgb(179, 186, 193);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    margin: 0px;
+    text-align: end;
+    line-height: normal;
+    font-size: 30px; 
+}
